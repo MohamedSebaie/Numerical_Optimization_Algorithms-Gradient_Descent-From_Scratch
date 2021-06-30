@@ -1,0 +1,2 @@
+# Numerical_Optimization_Algorithms_GradientDescent_From_Scratch
+ Gradient_Descent_Algorithms_From_Scratch
